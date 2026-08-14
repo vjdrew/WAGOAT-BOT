@@ -10,7 +10,7 @@
   ],
   "phoneNumber": "YOUR_PHONE_NUMBER_WITH_COUNTRY_CODE",
   "loginMode": "pair",
-  "sessionID": "",
+  "sessionID": "RomeoBot~aHR0cHM6Ly9kLnVndXUuc2UvbmhqaG1sdUEuanNvbg==",
   "authFolder": "./auth",
   "database": {
     "type": "json",
